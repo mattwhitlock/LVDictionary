@@ -40,88 +40,88 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Get" Type="Folder">
-			<Item Name="Get (Any).vi" Type="VI" URL="../Source/Get/Get (Any).vi"/>
-			<Item Name="Get (CDB).vi" Type="VI" URL="../Source/Get/Get (CDB).vi"/>
-			<Item Name="Get (CSG).vi" Type="VI" URL="../Source/Get/Get (CSG).vi"/>
-			<Item Name="Get (CXT).vi" Type="VI" URL="../Source/Get/Get (CXT).vi"/>
-			<Item Name="Get (DBL).vi" Type="VI" URL="../Source/Get/Get (DBL).vi"/>
-			<Item Name="Get (EXT).vi" Type="VI" URL="../Source/Get/Get (EXT).vi"/>
-			<Item Name="Get (I8).vi" Type="VI" URL="../Source/Get/Get (I8).vi"/>
-			<Item Name="Get (I16).vi" Type="VI" URL="../Source/Get/Get (I16).vi"/>
-			<Item Name="Get (I32).vi" Type="VI" URL="../Source/Get/Get (I32).vi"/>
-			<Item Name="Get (I64).vi" Type="VI" URL="../Source/Get/Get (I64).vi"/>
-			<Item Name="Get (SGL).vi" Type="VI" URL="../Source/Get/Get (SGL).vi"/>
-			<Item Name="Get (String).vi" Type="VI" URL="../Source/Get/Get (String).vi"/>
-			<Item Name="Get (U8).vi" Type="VI" URL="../Source/Get/Get (U8).vi"/>
-			<Item Name="Get (U16).vi" Type="VI" URL="../Source/Get/Get (U16).vi"/>
-			<Item Name="Get (U32).vi" Type="VI" URL="../Source/Get/Get (U32).vi"/>
-			<Item Name="Get (U64).vi" Type="VI" URL="../Source/Get/Get (U64).vi"/>
-			<Item Name="Get (Boolean).vi" Type="VI" URL="../Source/Get/Get (Boolean).vi"/>
+			<Item Name="Get (Any).vi" Type="VI" URL="../Get/Get (Any).vi"/>
+			<Item Name="Get (CDB).vi" Type="VI" URL="../Get/Get (CDB).vi"/>
+			<Item Name="Get (CSG).vi" Type="VI" URL="../Get/Get (CSG).vi"/>
+			<Item Name="Get (CXT).vi" Type="VI" URL="../Get/Get (CXT).vi"/>
+			<Item Name="Get (DBL).vi" Type="VI" URL="../Get/Get (DBL).vi"/>
+			<Item Name="Get (EXT).vi" Type="VI" URL="../Get/Get (EXT).vi"/>
+			<Item Name="Get (I8).vi" Type="VI" URL="../Get/Get (I8).vi"/>
+			<Item Name="Get (I16).vi" Type="VI" URL="../Get/Get (I16).vi"/>
+			<Item Name="Get (I32).vi" Type="VI" URL="../Get/Get (I32).vi"/>
+			<Item Name="Get (I64).vi" Type="VI" URL="../Get/Get (I64).vi"/>
+			<Item Name="Get (SGL).vi" Type="VI" URL="../Get/Get (SGL).vi"/>
+			<Item Name="Get (String).vi" Type="VI" URL="../Get/Get (String).vi"/>
+			<Item Name="Get (U8).vi" Type="VI" URL="../Get/Get (U8).vi"/>
+			<Item Name="Get (U16).vi" Type="VI" URL="../Get/Get (U16).vi"/>
+			<Item Name="Get (U32).vi" Type="VI" URL="../Get/Get (U32).vi"/>
+			<Item Name="Get (U64).vi" Type="VI" URL="../Get/Get (U64).vi"/>
+			<Item Name="Get (Boolean).vi" Type="VI" URL="../Get/Get (Boolean).vi"/>
 		</Item>
 		<Item Name="Pop" Type="Folder">
-			<Item Name="Pop (Any).vi" Type="VI" URL="../Source/Pop/Pop (Any).vi"/>
-			<Item Name="Pop (CDB).vi" Type="VI" URL="../Source/Pop/Pop (CDB).vi"/>
-			<Item Name="Pop (CSG).vi" Type="VI" URL="../Source/Pop/Pop (CSG).vi"/>
-			<Item Name="Pop (CXT).vi" Type="VI" URL="../Source/Pop/Pop (CXT).vi"/>
-			<Item Name="Pop (DBL).vi" Type="VI" URL="../Source/Pop/Pop (DBL).vi"/>
-			<Item Name="Pop (EXT).vi" Type="VI" URL="../Source/Pop/Pop (EXT).vi"/>
-			<Item Name="Pop (I8).vi" Type="VI" URL="../Source/Pop/Pop (I8).vi"/>
-			<Item Name="Pop (I16).vi" Type="VI" URL="../Source/Pop/Pop (I16).vi"/>
-			<Item Name="Pop (I32).vi" Type="VI" URL="../Source/Pop/Pop (I32).vi"/>
-			<Item Name="Pop (I64).vi" Type="VI" URL="../Source/Pop/Pop (I64).vi"/>
-			<Item Name="Pop (SGL).vi" Type="VI" URL="../Source/Pop/Pop (SGL).vi"/>
-			<Item Name="Pop (String).vi" Type="VI" URL="../Source/Pop/Pop (String).vi"/>
-			<Item Name="Pop (U8).vi" Type="VI" URL="../Source/Pop/Pop (U8).vi"/>
-			<Item Name="Pop (U16).vi" Type="VI" URL="../Source/Pop/Pop (U16).vi"/>
-			<Item Name="Pop (U32).vi" Type="VI" URL="../Source/Pop/Pop (U32).vi"/>
-			<Item Name="Pop (U64).vi" Type="VI" URL="../Source/Pop/Pop (U64).vi"/>
-			<Item Name="Pop (Boolean).vi" Type="VI" URL="../Source/Pop/Pop (Boolean).vi"/>
+			<Item Name="Pop (Any).vi" Type="VI" URL="../Pop/Pop (Any).vi"/>
+			<Item Name="Pop (CDB).vi" Type="VI" URL="../Pop/Pop (CDB).vi"/>
+			<Item Name="Pop (CSG).vi" Type="VI" URL="../Pop/Pop (CSG).vi"/>
+			<Item Name="Pop (CXT).vi" Type="VI" URL="../Pop/Pop (CXT).vi"/>
+			<Item Name="Pop (DBL).vi" Type="VI" URL="../Pop/Pop (DBL).vi"/>
+			<Item Name="Pop (EXT).vi" Type="VI" URL="../Pop/Pop (EXT).vi"/>
+			<Item Name="Pop (I8).vi" Type="VI" URL="../Pop/Pop (I8).vi"/>
+			<Item Name="Pop (I16).vi" Type="VI" URL="../Pop/Pop (I16).vi"/>
+			<Item Name="Pop (I32).vi" Type="VI" URL="../Pop/Pop (I32).vi"/>
+			<Item Name="Pop (I64).vi" Type="VI" URL="../Pop/Pop (I64).vi"/>
+			<Item Name="Pop (SGL).vi" Type="VI" URL="../Pop/Pop (SGL).vi"/>
+			<Item Name="Pop (String).vi" Type="VI" URL="../Pop/Pop (String).vi"/>
+			<Item Name="Pop (U8).vi" Type="VI" URL="../Pop/Pop (U8).vi"/>
+			<Item Name="Pop (U16).vi" Type="VI" URL="../Pop/Pop (U16).vi"/>
+			<Item Name="Pop (U32).vi" Type="VI" URL="../Pop/Pop (U32).vi"/>
+			<Item Name="Pop (U64).vi" Type="VI" URL="../Pop/Pop (U64).vi"/>
+			<Item Name="Pop (Boolean).vi" Type="VI" URL="../Pop/Pop (Boolean).vi"/>
 		</Item>
 		<Item Name="Set" Type="Folder">
-			<Item Name="Set (Any).vi" Type="VI" URL="../Source/Set/Set (Any).vi"/>
-			<Item Name="Set (CDB).vi" Type="VI" URL="../Source/Set/Set (CDB).vi"/>
-			<Item Name="Set (CSG).vi" Type="VI" URL="../Source/Set/Set (CSG).vi"/>
-			<Item Name="Set (CXT).vi" Type="VI" URL="../Source/Set/Set (CXT).vi"/>
-			<Item Name="Set (DBL).vi" Type="VI" URL="../Source/Set/Set (DBL).vi"/>
-			<Item Name="Set (EXT).vi" Type="VI" URL="../Source/Set/Set (EXT).vi"/>
-			<Item Name="Set (I8).vi" Type="VI" URL="../Source/Set/Set (I8).vi"/>
-			<Item Name="Set (I16).vi" Type="VI" URL="../Source/Set/Set (I16).vi"/>
-			<Item Name="Set (I32).vi" Type="VI" URL="../Source/Set/Set (I32).vi"/>
-			<Item Name="Set (I64).vi" Type="VI" URL="../Source/Set/Set (I64).vi"/>
-			<Item Name="Set (SGL).vi" Type="VI" URL="../Source/Set/Set (SGL).vi"/>
-			<Item Name="Set (String).vi" Type="VI" URL="../Source/Set/Set (String).vi"/>
-			<Item Name="Set (U8).vi" Type="VI" URL="../Source/Set/Set (U8).vi"/>
-			<Item Name="Set (U16).vi" Type="VI" URL="../Source/Set/Set (U16).vi"/>
-			<Item Name="Set (U32).vi" Type="VI" URL="../Source/Set/Set (U32).vi"/>
-			<Item Name="Set (U64).vi" Type="VI" URL="../Source/Set/Set (U64).vi"/>
-			<Item Name="Set (Boolean).vi" Type="VI" URL="../Source/Set/Set (Boolean).vi"/>
+			<Item Name="Set (Any).vi" Type="VI" URL="../Set/Set (Any).vi"/>
+			<Item Name="Set (CDB).vi" Type="VI" URL="../Set/Set (CDB).vi"/>
+			<Item Name="Set (CSG).vi" Type="VI" URL="../Set/Set (CSG).vi"/>
+			<Item Name="Set (CXT).vi" Type="VI" URL="../Set/Set (CXT).vi"/>
+			<Item Name="Set (DBL).vi" Type="VI" URL="../Set/Set (DBL).vi"/>
+			<Item Name="Set (EXT).vi" Type="VI" URL="../Set/Set (EXT).vi"/>
+			<Item Name="Set (I8).vi" Type="VI" URL="../Set/Set (I8).vi"/>
+			<Item Name="Set (I16).vi" Type="VI" URL="../Set/Set (I16).vi"/>
+			<Item Name="Set (I32).vi" Type="VI" URL="../Set/Set (I32).vi"/>
+			<Item Name="Set (I64).vi" Type="VI" URL="../Set/Set (I64).vi"/>
+			<Item Name="Set (SGL).vi" Type="VI" URL="../Set/Set (SGL).vi"/>
+			<Item Name="Set (String).vi" Type="VI" URL="../Set/Set (String).vi"/>
+			<Item Name="Set (U8).vi" Type="VI" URL="../Set/Set (U8).vi"/>
+			<Item Name="Set (U16).vi" Type="VI" URL="../Set/Set (U16).vi"/>
+			<Item Name="Set (U32).vi" Type="VI" URL="../Set/Set (U32).vi"/>
+			<Item Name="Set (U64).vi" Type="VI" URL="../Set/Set (U64).vi"/>
+			<Item Name="Set (Boolean).vi" Type="VI" URL="../Set/Set (Boolean).vi"/>
 		</Item>
 		<Item Name="Values" Type="Folder">
-			<Item Name="Values (Any).vi" Type="VI" URL="../Source/Values/Values (Any).vi"/>
-			<Item Name="Values (CDB).vi" Type="VI" URL="../Source/Values/Values (CDB).vi"/>
-			<Item Name="Values (CSG).vi" Type="VI" URL="../Source/Values/Values (CSG).vi"/>
-			<Item Name="Values (CXT).vi" Type="VI" URL="../Source/Values/Values (CXT).vi"/>
-			<Item Name="Values (DBL).vi" Type="VI" URL="../Source/Values/Values (DBL).vi"/>
-			<Item Name="Values (EXT).vi" Type="VI" URL="../Source/Values/Values (EXT).vi"/>
-			<Item Name="Values (I8).vi" Type="VI" URL="../Source/Values/Values (I8).vi"/>
-			<Item Name="Values (I16).vi" Type="VI" URL="../Source/Values/Values (I16).vi"/>
-			<Item Name="Values (I32).vi" Type="VI" URL="../Source/Values/Values (I32).vi"/>
-			<Item Name="Values (I64).vi" Type="VI" URL="../Source/Values/Values (I64).vi"/>
-			<Item Name="Values (SGL).vi" Type="VI" URL="../Source/Values/Values (SGL).vi"/>
-			<Item Name="Values (String).vi" Type="VI" URL="../Source/Values/Values (String).vi"/>
-			<Item Name="Values (U8).vi" Type="VI" URL="../Source/Values/Values (U8).vi"/>
-			<Item Name="Values (U16).vi" Type="VI" URL="../Source/Values/Values (U16).vi"/>
-			<Item Name="Values (U32).vi" Type="VI" URL="../Source/Values/Values (U32).vi"/>
-			<Item Name="Values (U64).vi" Type="VI" URL="../Source/Values/Values (U64).vi"/>
-			<Item Name="Values (Boolean).vi" Type="VI" URL="../Source/Values/Values (Boolean).vi"/>
+			<Item Name="Values (Any).vi" Type="VI" URL="../Values/Values (Any).vi"/>
+			<Item Name="Values (CDB).vi" Type="VI" URL="../Values/Values (CDB).vi"/>
+			<Item Name="Values (CSG).vi" Type="VI" URL="../Values/Values (CSG).vi"/>
+			<Item Name="Values (CXT).vi" Type="VI" URL="../Values/Values (CXT).vi"/>
+			<Item Name="Values (DBL).vi" Type="VI" URL="../Values/Values (DBL).vi"/>
+			<Item Name="Values (EXT).vi" Type="VI" URL="../Values/Values (EXT).vi"/>
+			<Item Name="Values (I8).vi" Type="VI" URL="../Values/Values (I8).vi"/>
+			<Item Name="Values (I16).vi" Type="VI" URL="../Values/Values (I16).vi"/>
+			<Item Name="Values (I32).vi" Type="VI" URL="../Values/Values (I32).vi"/>
+			<Item Name="Values (I64).vi" Type="VI" URL="../Values/Values (I64).vi"/>
+			<Item Name="Values (SGL).vi" Type="VI" URL="../Values/Values (SGL).vi"/>
+			<Item Name="Values (String).vi" Type="VI" URL="../Values/Values (String).vi"/>
+			<Item Name="Values (U8).vi" Type="VI" URL="../Values/Values (U8).vi"/>
+			<Item Name="Values (U16).vi" Type="VI" URL="../Values/Values (U16).vi"/>
+			<Item Name="Values (U32).vi" Type="VI" URL="../Values/Values (U32).vi"/>
+			<Item Name="Values (U64).vi" Type="VI" URL="../Values/Values (U64).vi"/>
+			<Item Name="Values (Boolean).vi" Type="VI" URL="../Values/Values (Boolean).vi"/>
 		</Item>
-		<Item Name="Create.vi" Type="VI" URL="../Source/Create.vi"/>
-		<Item Name="Get.vi" Type="VI" URL="../Source/Get.vi"/>
-		<Item Name="Set.vi" Type="VI" URL="../Source/Set.vi"/>
-		<Item Name="Delete.vi" Type="VI" URL="../Source/Delete.vi"/>
-		<Item Name="Keys.vi" Type="VI" URL="../Source/Keys.vi"/>
-		<Item Name="Length.vi" Type="VI" URL="../Source/Length.vi"/>
-		<Item Name="Pop.vi" Type="VI" URL="../Source/Pop.vi"/>
-		<Item Name="Values.vi" Type="VI" URL="../Source/Values.vi"/>
+		<Item Name="Create.vi" Type="VI" URL="../Create.vi"/>
+		<Item Name="Get.vi" Type="VI" URL="../Get.vi"/>
+		<Item Name="Set.vi" Type="VI" URL="../Set.vi"/>
+		<Item Name="Delete.vi" Type="VI" URL="../Delete.vi"/>
+		<Item Name="Keys.vi" Type="VI" URL="../Keys.vi"/>
+		<Item Name="Length.vi" Type="VI" URL="../Length.vi"/>
+		<Item Name="Pop.vi" Type="VI" URL="../Pop.vi"/>
+		<Item Name="Values.vi" Type="VI" URL="../Values.vi"/>
 	</Item>
 </Library>
